@@ -1,8 +1,11 @@
 me.braydon.anticheat
 me.braydon.anticheat.check
 me.braydon.anticheat.check.impl
+me.braydon.anticheat.meta
+me.braydon.anticheat.meta.impl
 me.braydon.anticheat.player
 me.braydon.anticheat.processor
 me.braydon.anticheat.processor.impl
 me.braydon.api.check
 me.braydon.api.event
+me.braydon.api.player

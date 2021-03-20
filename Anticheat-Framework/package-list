@@ -1,6 +1,8 @@
 me.braydon.anticheat
 me.braydon.anticheat.check
-me.braydon.anticheat.check.impl
+me.braydon.anticheat.check.impl.fly
+me.braydon.anticheat.check.impl.test
+me.braydon.anticheat.common
 me.braydon.anticheat.meta
 me.braydon.anticheat.meta.impl
 me.braydon.anticheat.player
